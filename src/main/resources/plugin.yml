@@ -1,0 +1,4 @@
+name: knockknock
+version: '${project.version}'
+main: eu.starhop.knockknock.Knockknock
+api-version: '1.20'
